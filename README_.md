@@ -21,7 +21,7 @@ PC-Admin ---- Fa0/2   VLAN 10    \
             S1 2960 ---- Fa0/1 --- R1 2911 - G0/0
 PC-Office --- Fa0/3   VLAN 20    /         G0/0.20  192.168.20.1/24
 ```
-
+![Network Topology](Topology.png)
 ---
 
 ## Adressplan
